@@ -1,0 +1,23 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# Node / JS
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Java / Maven
+target/
+
+# Kotlin / Gradle
+build/
+.gradle/
+.kotlin/

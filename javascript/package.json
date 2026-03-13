@@ -1,0 +1,12 @@
+{
+  "name": "cams-code-challenge-js",
+  "version": "1.0.0",
+  "description": "Javascript code challenge for CAMS user registration",
+  "main": "userRegistration.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
